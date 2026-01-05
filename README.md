@@ -16,6 +16,9 @@ Master’s student in Survey Statistics and Data Analysis with a focus on machin
 - **Webscraping Supermarket Flyers**  
   App to display in Streamlit
 
+- **Active Recall App to help learn for a Python exam**  
+  App to display in Streamlit
+
 ### Background
 - M.Sc. Survey Statistics and Data Analysis (ongoing)
 - Bachelor Politics and Public admin
