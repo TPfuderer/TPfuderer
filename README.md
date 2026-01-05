@@ -11,7 +11,7 @@ Master’s student in Survey Statistics and Data Analysis with a focus on machin
 ### Selected projects
 - **Flyer OCR & Data Pipeline**  
   End-to-end pipeline for extracting and structuring supermarket offers  
-  (YOLOv8, PaddleOCR, Streamlit)
+  (YOLOv8, EasyOCR, Streamlit)
 
 - **Webscraping Supermarket Flyers**  
   App to display in Streamlit
