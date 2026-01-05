@@ -1,16 +1,26 @@
-## Hi there 👋
+## Tristan Pfuderer
 
-<!--
-**TPfuderer/TPfuderer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master’s student in Survey Statistics and Data Analysis with a focus on machine learning.
 
-Here are some ideas to get you started:
+### Focus areas
+- End-to-end data pipelines (scraping → OCR → processing → visualization)
+- Applied machine learning and model inference
+- Statistical modeling and explainable AI
+- Practical, exploratory projects with real-world data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected projects
+- **Flyer OCR & Data Pipeline**  
+  End-to-end pipeline for extracting and structuring supermarket offers  
+  (YOLOv8, PaddleOCR, Streamlit)
+
+- **Webscraping Supermarket Flyers**  
+  App to display in Streamlit
+
+### Background
+- M.Sc. Survey Statistics and Data Analysis (ongoing)
+- Bachelor Politics and Public admin
+- Strong foundation in statistics, ML, and data analysis
+- Interested in data & ML engineering roles
+
+📌 See pinned repositories below for details.
+
