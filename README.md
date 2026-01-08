@@ -16,13 +16,18 @@ Master’s student in Survey Statistics and Data Analysis with a focus on machin
 - **Webscraping Supermarket Flyers**  
   App to display in Streamlit
 
-- **Active Recall App to help learn for a Python exam**  
-  App to display in Streamlit
+- **TF-IDF Product Classifier**  
+  Multi-label text classification model for supermarket products  
+  (TF-IDF + logistic regression, label assignment for training assisted via OpenAI API)
+
+- **Active Recall Learning App**  
+  Interactive Streamlit app to support active recall for a Python exam,
+  including user progress tracking and question repetition logic
 
 ### Background
 - M.Sc. Survey Statistics and Data Analysis (ongoing)
 - Bachelor Politics and Public admin
-- Strong foundation in statistics, ML, and data analysis
+- Foundation in statistics, ML, and data analysis
 - Interested in data & ML engineering roles
 
 📌 See pinned repositories below for details.
