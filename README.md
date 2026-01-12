@@ -3,10 +3,6 @@
 Master’s student in Survey Statistics and Data Analysis with a focus on machine learning.
 
 ### Selected projects
-- **Flyer OCR & Data Pipeline**  
-  End-to-end pipeline for extracting and structuring supermarket offers  
-  (YOLOv8, EasyOCR, Streamlit)  
-  <https://portfoliobasedemo-g.streamlit.app/>
 
 - **Webscraping Supermarket Flyers**  
   App to display in Streamlit  
@@ -21,6 +17,11 @@ Master’s student in Survey Statistics and Data Analysis with a focus on machin
   Interactive Streamlit app to support active recall for a Python exam,  
   including user progress tracking and question repetition logic  
   <https://activerecallapp-x9tovxwcvhtr5gszc3lywp.streamlit.app/>
+  
+- **Flyer OCR & Data Pipeline**  
+  End-to-end pipeline for extracting and structuring supermarket offers  
+  (YOLOv8, EasyOCR, Streamlit)  
+  <https://portfoliobasedemo-g.streamlit.app/>
 
 
 ### Background
