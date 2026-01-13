@@ -21,7 +21,7 @@ Master’s student in Survey Statistics and Data Analysis with a focus on machin
 - **Flyer OCR & Data Pipeline**  
   End-to-end pipeline for extracting and structuring supermarket offers  
   (YOLOv8, EasyOCR, Streamlit)  
-  <https://portfoliobasedemo-g.streamlit.app/>
+  <https://portfoliobasedemo-p.streamlit.app/>
 
 
 ### Background
