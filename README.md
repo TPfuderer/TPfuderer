@@ -4,6 +4,11 @@ Master’s student in Survey Statistics and Data Analysis with a focus on machin
 
 ### Selected projects
 
+* **Gemini Portfolio RAG Assistant (Recruiter Fit Check)**
+  *Use it to interactively assess my fit for the role.* RAG app to query my portfolio/projects and get answers
+  grounded in retrieved documentation (SentenceTransformers + FAISS + Streamlit).
+  <https://geminiapplicationchecker.streamlit.app/>
+
 - **Webscraping Supermarket Flyers**  
   App to display in Streamlit  
   <https://clevershopper.streamlit.app/>
